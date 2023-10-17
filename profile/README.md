@@ -22,6 +22,7 @@ With UnStruct.AI, you're not just getting another cybersecurity tool – you're 
    - **OpsGPT Bot**: Engage with your dedicated incident copilot and revolutionize your incident response experience.
    - **Dynamic Case Management**: Anticipate and address issues even before they escalate into incidents. Maintain a proactive stance.
    - **Signal Processing**: Efficiently detect, interpret, and respond to critical production signals from varied sources, ensuring you're always acting on relevant information and not getting bogged down by distractions.
+   - **Adaptable Plugin-Based Architecture for Scalable Integrations**: In Unstruct, plugins serve as the essential integration glue, seamlessly connecting the platform to a variety of widely-used external systems across the industry. These include, but are not limited to, Slack, Jira, PagerDuty, ServiceNow, Zoom, Sentry, and Google, among others
 
 
 ## 🔍 **unTimeline**  
@@ -50,7 +51,7 @@ Setting up comprehensive software can often become a tedious and error-prone pro
 
 Whether you're setting up for the first time or want to uninstall, we've distilled the process into one simple command:
 ```bash
-./deploy_unstruct.sh install/uninstall
+./deploy_unstruct.sh install|uninstall
 ```
 
 ## Want a Hosted Solution?
@@ -131,7 +132,7 @@ No matter the size or type of your team, a common challenge faced by organizatio
 
 <br><br>
 ## Adaptable Plugin-Based Architecture for Scalable Integrations
-In Unstruct, plugins serve as the essential integration glue, seamlessly connecting the platform to a variety of widely-used external systems across the industry. These include, but are not limited to, Slack, PagerDuty, ServiceNow, Zoom, Sentry, and Google, among others. The elegance of this architecture lies in its plug-and-play nature. For instance, if you are utilizing a documents plugin to store your incident reports on Google, and another user prefers Confluence, the transition is as simple as modifying a setting. This adaptability is where the true power of the architecture is realized.<br><br>
+In Unstruct, plugins serve as the essential integration glue, seamlessly connecting the platform to a variety of widely-used external systems across the industry. These include, but are not limited to, Slack, Jira, PagerDuty, ServiceNow, Zoom, Sentry, and Google, among others. The elegance of this architecture lies in its plug-and-play nature. For instance, if you are utilizing a documents plugin to store your incident reports on Google, and another user prefers Confluence, the transition is as simple as modifying a setting. This adaptability is where the true power of the architecture is realized.<br><br>
 ![image](https://github.com/unstructai/.github/assets/5151108/2a496581-b98f-4116-a551-d3e8ff912adb)
 
 <br><br>
