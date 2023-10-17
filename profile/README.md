@@ -26,7 +26,7 @@ With UnStruct.AI, you're not just getting another cybersecurity tool – you're 
 
 
 ## 🔍 **unTimeline**  
-   *Collaborative Incident & People Analysis*  
+   *Collaborative Incident & Forensic Analysis*  
    Dive deep into insights, stories, and forensic analysis. Get a granular understanding of every incident with collaborative tools.
 
 ## 📢 **unStatus**  
