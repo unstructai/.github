@@ -188,6 +188,8 @@ Acknowledging the paramount importance of privacy and role-based access control 
 ## Pioneering Non-Linear Timelines and Incident/Knowledge Graphs
 Traditional timelines, with their seemingly infinite scroll, often prove cumbersome both during and after an incident. We recognized this challenge and devised an innovative solution to address it. While still in Beta, our approach aims to present timelines more intuitively, resembling a double-linked list. This design facilitates a quicker path to insights, allowing users to follow along seamlessly and efficiently.
 <img width="1126" alt="Screen Shot 2023-10-17 at 10 46 23 AM" src="https://github.com/unstructai/.github/assets/5151108/0075d5e2-1d18-4312-bf1d-3c0842395914">
+<img width="1377" alt="Screen Shot 2023-10-17 at 10 54 56 AM" src="https://github.com/unstructai/.github/assets/5151108/04a799b0-7836-4e5b-a4a3-e182fde15a2a">
+
 
 
 <br><br>
