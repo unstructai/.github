@@ -1,3 +1,17 @@
+# UnStruct.AI 
+
+🌐 **Redefining Incident Response with Generative AI**
+
+UnStruct.AI is not just another tool – it's a pioneering leap into the future. By harnessing the raw power of generative AI, we're supercharging cybersecurity incident response workflows, unveiling hidden patterns and insights from incident data, and fostering seamless team collaboration and communication. Our mission? To completely revolutionize how organizations respond to incidents.
+
+> **Did You Know?**  
+> The average downtime cost for medium to large companies stands at a staggering ​**$10,719/min**​*. Furthermore, a single cybersecurity incident can set you back by **$4.35 million**​**. UnStruct's proposition? **Slash these costs by over 15%**. 
+
+At UnStruct, we're not just about innovation - we're about meaningful innovation. The (cybersecurity) incident response and management realm has long been stagnant, often burdening organizations with hefty fees for lackluster solutions. We aim to change this narrative.
+
+Driven by a community-first, open-source ethos, we're democratizing access to cutting-edge, impactful innovation. No more overpaying. No more settling for subpar. Every organization, irrespective of its size, deserves forward-thinking, cutting-edge technology. And with UnStruct.AI, that's precisely what you get.
+
+<br><br>
 # UnStruct.AI Components
 
 With UnStruct.AI, you're not just getting another cybersecurity tool – you're getting an all-in-one powerhouse. Instead of juggling multiple tools and racking up costs for each, get everything under one roof. Whether it's for paging, incident response, analysis, status updates, SLO/uptime monitoring, or a sprinkle of tech magic – we've got you covered. And the best part? **It's all free**.
