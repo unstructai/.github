@@ -1,5 +1,7 @@
-# UnStruct.AI 
+![Original on Transparent](https://github.com/unstructai/.github/assets/5151108/981823ad-4137-450f-9f8b-530f7fd225bf)<br><br>
 
+
+# UnStruct.AI 
 ## 🌐 Supercharging (Cybersecurity) Incident Response Workflows with Generative AI 
 
 UnStruct.AI is not just another tool – it's a pioneering leap into the future. By harnessing the raw power of generative AI, we're supercharging cybersecurity incident response workflows, unveiling hidden patterns and insights from incident data, and fostering seamless team collaboration and communication. Our mission? To completely revolutionize how organizations respond to incidents.
@@ -54,8 +56,8 @@ Whether you're setting up for the first time or want to uninstall, we've distill
 ./deploy_unstruct.sh install|uninstall
 ```
 
-## Want a Hosted Solution?
-Interested in a hassle-free, hosted solution without dealing with installation and maintenance? Contact us at unsales@unstructai.com. For the first 10 customers, we will only charge you (GCP) hosting fees for the first year of your usage.  
+## Want a Cloud Solution?
+Interested in a hassle-free, cloud solution without dealing with installation and maintenance? Contact us at unsales@unstructai.com. For the first 10 customers, we will only charge you (GCP) hosting fees for the first year of your usage.  
 
 <br><br>
 # Main Features
