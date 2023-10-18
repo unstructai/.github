@@ -53,7 +53,7 @@ Setting up comprehensive software can often become a tedious and error-prone pro
 
 Whether you're setting up for the first time or want to uninstall, we've distilled the process into one simple command:
 ```bash
-./deploy_unstruct.sh install|uninstall
+./deploy_unstruct.sh install|uninstall|upgrade
 ```
 
 Full instructions at https://github.com/unstructai/.github/blob/main/unstruct-install.md
