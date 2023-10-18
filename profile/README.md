@@ -56,6 +56,8 @@ Whether you're setting up for the first time or want to uninstall, we've distill
 ./deploy_unstruct.sh install|uninstall
 ```
 
+Full instructions at https://github.com/unstructai/.github/blob/main/unstruct-install.md
+
 ## Want a Cloud Solution?
 Interested in a hassle-free, cloud solution without dealing with installation and maintenance? Contact us at unsales@unstructai.com. For the first 10 customers, we will only charge you (GCP) hosting fees for the first year of your usage.  
 
