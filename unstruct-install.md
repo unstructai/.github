@@ -1,17 +1,20 @@
-## Download the install script (bash)
+# Unstruct.AI install. 
+*All it takes is to execute one command. That's it!*
+
+## 1. Download the install script (bash)
 [Download the script here](https://github.com/unstructai/unincident/blob/master/docker/deploy_unstruct.sh)
 
-## Make it an executable 
+## 2. Make it an executable 
 ```bash
 chmod +x deploy_unstruct.sh 
 ```
 
-## Run the Script and follow the instructions 
+## 3. Run the Script and follow the instructions 
 ```bash
 ./deploy_unstruct.sh install
 ```
 
-> **Note**: You will need to run the script as sudo on Linux based machines. 
+> **Note**: You will need to run the script as sudo on Linux based machines. <br><br>
 
 ## Prerequisites
 The install works well, for example, on a MacBook Pro with the following specs. We've tested this on i5 chips, and installation can be a bit of a challenge:
