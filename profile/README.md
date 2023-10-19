@@ -1,7 +1,7 @@
 ![Original on Transparent](https://github.com/unstructai/.github/assets/5151108/981823ad-4137-450f-9f8b-530f7fd225bf)<br><br>
 
 
-# UnStruct.AI 
+
 # 🌐 Supercharging (Cybersecurity) Incident Response Workflows with Generative AI 
 
 UnStruct.AI is not just another tool – it's a pioneering leap into the future. By harnessing the raw power of generative AI, we're supercharging cybersecurity incident response workflows, unveiling hidden patterns and insights from incident data, and fostering seamless team collaboration and communication. Our mission? To completely revolutionize how organizations respond to incidents.
