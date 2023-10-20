@@ -17,18 +17,15 @@ chmod +x deploy_unstruct.sh
 > **Note**: You will need to run the script as sudo on Linux based machines. <br><br>
 
 ## Prerequisites
-The install works well, for example, on a MacBook Pro with the following specs. We've tested this on i5 chips, and installation can be a bit of a challenge:
+The install works well, for example, on a MacBook Pro with the following specs. 
 
 - **Model Name:** MacBook Pro
-- **Model Identifier:** MacBookPro16,1
 - **Processor Name:** 6-Core Intel Core i7
 - **Processor Speed:** 2.6 GHz
-- **Number of Processors:** 1
 - **Total Number of Cores:** 6
-- **L2 Cache (per Core):** 256 KB
-- **L3 Cache:** 12 MB
-- **Hyper-Threading Technology:** Enabled
 - **Memory:** 16 GB
+
+We've tested this on MacBook with i5 chips, and installation was a challenge, and may not complete.
 
 > **Note:** The system will become slow when the containers are being restarted and the app is loading up the code into the RAM. Once caches warm up, you should be good. 
 
