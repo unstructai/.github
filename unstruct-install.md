@@ -17,7 +17,9 @@ chmod +x deploy_unstruct.sh
 > **Note**: You will need to run the script as sudo on Linux based machines. <br><br>
 
 ## Prerequisites
-The install works well, for example, on a MacBook Pro with the following specs. 
+Make sure you have docker installed. 
+
+Also, the install works well, for example, on a MacBook Pro with the following specs. 
 
 - **Model Name:** MacBook Pro
 - **Processor Name:** 6-Core Intel Core i7
