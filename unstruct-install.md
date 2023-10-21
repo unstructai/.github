@@ -17,25 +17,11 @@ chmod +x deploy_unstruct.sh
 > **Note**: You will need to run the script as sudo on Linux based machines. <br><br>
 
 ## Prerequisites
-Make sure you have docker installed. 
+1. Make sure you have docker installed.
+2. MacBook Pro or similar with at least 6-Core Intel Core i7, 2.6 GHz, 16 GB RAM.
+3. GCP c2-standard-4 type: 4 vCPU, 2 cores, 16G RAM, or similar.
 
-Also, the install works well, for example, on a MacBook Pro with the following specs. 
-
-- **Model Name:** MacBook Pro
-- **Processor Name:** 6-Core Intel Core i7
-- **Processor Speed:** 2.6 GHz
-- **Total Number of Cores:** 6
-- **Memory:** 16 GB
-
-We've tested this on MacBook with i5 chips, and installation was a challenge, and may not complete.
-
-> **Note:** The system will become slow when the containers are being restarted and the app is loading up the code into the RAM. Once caches warm up, you should be good. 
-
-On a Linux VM (tested on GCP) with the specs below, the install is much snappier. No slowness is experienced:
-
-- **Machine Type:** c2-standard-4 
-- **Memory:** 16GB RAM 
-- **CPU:** 4 vCPU, 2 cores. 
+> **Note:** The system might become slow on a less powerful box when the app is loading up the code into the RAM. Once caches warm up, you should be good. 
 
 ## Post Install 
 Follow the instructions on the prompt to access all the four applications.
