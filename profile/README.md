@@ -4,15 +4,25 @@
 
 # 🌐 Supercharging (Cybersecurity) Incident Response Workflows with Generative AI 
 
-UnStruct.AI is not just another tool – it's a pioneering leap into the future. By harnessing the raw power of generative AI, we're supercharging cybersecurity incident response workflows, unveiling hidden patterns and insights from incident data, and fostering seamless team collaboration and communication. Our mission? To completely revolutionize how organizations respond to incidents.
+## Imagine this: 🤔
+
+You've just launched your production service. Exciting times! But then you realize you need alerting and on-call. Boom, vendor A swoops in with a charge of ${X-1}. Next, you're struggling with manual, error-prone incident management. Enter vendor B with a price tag of ${X-2}.Next, you need to learn from incidents; you need to fight and prevent bad actors from getting in; you need status pages; you need SLO stuff... and the story goes on. 
+
+So, when does this cycle end? Each step seems logical, but the costs stack up. And the big question is: What are we truly gaining? The major incumbents have been at a standstill for over a decade, while even the newest players, despite hefty funding, seem to be stuck in a loop of incremental improvements.
+
+It's time for a paradigm shift. 🚀
+
+With UnStruct.ai, we're on a mission to cut through this nonsense. Within minutes (3 mins 45 secs for a fresh install), you'll witness a market-leading solution that combines the skill of top OSS, enhanced with AI and our personal touch, all wrapped up in a seamless installation process. Or, if you're curious about its foundation, dive into the 500,000+ lines of code. 
+
+Why settle for fragmented tools when you can have a holistic, powerful, open and free solution?
+
+👉 https://github.com/unstructai/.github/blob/main/unstruct-install.md
+
+## One more thing: 💡
 
 > **Did You Know?**  
 > The average downtime cost for medium to large companies stands at a staggering **$10,719/min**. Furthermore, a single cybersecurity incident can set you back by **$4.35 million**. UnStruct's proposition? **Slash these costs by over 15%**.
 
-
-At UnStruct, we're not just about innovation - we're about meaningful innovation. The (cybersecurity) incident response and management realm has long been stagnant, often burdening organizations with hefty fees for lackluster solutions. We aim to change this narrative.
-
-Driven by a community-first, open-source ethos, we're democratizing access to cutting-edge, impactful innovation. No more overpaying. No more settling for subpar. Every organization, irrespective of its size, deserves forward-thinking, cutting-edge technology. And with UnStruct.AI, that's precisely what you get.
 
 <br><br>
 # UnStruct.AI Components
