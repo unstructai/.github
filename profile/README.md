@@ -6,9 +6,11 @@
 
 ## Imagine this: 🤔
 
-You've just launched your production service. Exciting times! But then you realize you need alerting and on-call. Boom, vendor A swoops in with a charge of ${X-1}. Next, you're struggling with manual, error-prone incident management. Enter vendor B with a price tag of ${X-2}.Next, you need to learn from incidents; you need to fight and prevent bad actors from getting in; you need status pages; you need SLO stuff... and the story goes on. 
+You've just launched your production service. Exciting times! But then you realize you need alerting and on-call. Boom, vendor A swoops in with a charge of ${X-1}. Next, you're struggling with manual, error-prone incident management. Enter vendor B with a price tag of ${X-2}. Next, you need to learn from incidents; you need to fight and prevent bad actors from getting in; you need status pages; you need SLO stuff.  
 
-So, when does this cycle end? Each step seems logical, but the costs stack up. And the big question is: What are we truly gaining? The major incumbents have been at a standstill for over a decade, while even the newest players, despite hefty funding, seem to be stuck in a loop of incremental improvements.
+...And the madness continues. 
+
+The big question is: What are we truly gaining? The major incumbents have been at a standstill for over a decade, while even the newest players, despite hefty funding, seem to be stuck in a loop of incremental improvements.
 
 It's time for a paradigm shift. 🚀
 
