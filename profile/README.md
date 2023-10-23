@@ -12,7 +12,7 @@ So, when does this cycle end? Each step seems logical, but the costs stack up. A
 
 It's time for a paradigm shift. 🚀
 
-With [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense. Within minutes, you'll witness a market-leading solution that integrates some of the best open-source projects out there. We've leveraged [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma), enhanced with AI, our personal touch, and many enhancements. It's all easy to set up, and you're welcome to dive into the 500,000+ lines of code that bring it all together.
+At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense. In just a few minutes, you can deploy a solution that integrates top-notch open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
 
 
 Why settle for fragmented tools when you can have a holistic, powerful, open and free solution?
