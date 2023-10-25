@@ -2,7 +2,10 @@
 *All it takes is to execute one command. That's it!*
 
 ## 1. Download the install script (bash)
-[Download the script here](https://github.com/unstructai/unincident/blob/master/docker/deploy_unstruct.sh)
+
+```bash
+curl -LO https://raw.githubusercontent.com/unstructai/unincident/master/docker/deploy_unstruct.sh
+```
 
 ## 2. Make it an executable 
 ```bash
