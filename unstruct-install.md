@@ -11,6 +11,7 @@ curl -LO https://raw.githubusercontent.com/unstructai/unincident/master/docker/d
 ```bash
 chmod +x deploy_unstruct.sh 
 ```
+> **Note**: This script can be in any DIR where you have write permissions and enough disk space for opensearch, postgres, etc. <br><br>
 
 ## 3. Run the Script and follow the instructions 
 ```bash
