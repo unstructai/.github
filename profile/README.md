@@ -12,9 +12,9 @@ You've just launched your production service. Exciting times! But then you reali
 
 The big question is: What are we truly gaining? The major incumbents have been at a standstill for over a decade, while even the newest players, despite hefty funding, seem to be stuck in a loop of incremental improvements.
 
-It's time for a paradigm shift. 🚀
+At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense 🚀
 
-At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense. In just a few minutes, you can deploy a solution that integrates top-notch open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
+In just a few minutes, you can deploy a solution that integrates top-notch open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
 
 
 Why settle for fragmented tools when you can have a holistic, powerful, open and free solution?
