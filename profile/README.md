@@ -1,23 +1,17 @@
 ![Original on Transparent](https://github.com/unstructai/.github/assets/5151108/981823ad-4137-450f-9f8b-530f7fd225bf)<br><br>
 
 
+# An AI-Integrated Open-Source Alternative to PagerDuty
 
-# 🌐 Supercharging (Cybersecurity) Incident Response Workflows with Generative AI 
+## How much are you paying for Incident Management 🤔
 
-## Imagine this: 🤔
-
-You've just launched your production service. Exciting times! But then you realize you need alerting and on-call. Boom, vendor A swoops in with a charge of ${X-1}. Next, you're struggling with manual, error-prone incident management. Enter vendor B with a price tag of ${X-2}. Next, you need to learn from incidents; you need to fight and prevent bad actors from getting in; you need status pages; you need SLO stuff.  
+Paging/On Call ($$) + SIRT/Incident Management ($$) + Analysis/Postmortem ($$) + SLO stuff ($$) + DFIR ($$) + Uptime Mon ($$) + ... + ...
 
 ...And the madness continues. 
 
-The big question is: What are we truly gaining? The major incumbents have been at a standstill for over a decade, while even the newest players, despite hefty funding, seem to be stuck in a loop of incremental improvements.
+At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense.
 
-At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense 🚀
-
-In just a few minutes, you can deploy a solution that integrates top-notch open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
-
-
-Why settle for fragmented tools when you can have a holistic, powerful, open and free solution?
+In just a few minutes, you can deploy a solution that integrates world-class open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
 
 👉 https://github.com/unstructai/.github/blob/main/unstruct-install.md
 
