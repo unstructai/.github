@@ -3,11 +3,17 @@
 
 # An AI-Integrated Open-Source Alternative to PagerDuty
 
-## How much are you paying for Incident Management 🤔
+## How much are you paying for Incident Management? 🤔
 
-Paging/On Call ($$) + SIRT/Incident Management ($$) + Analysis/Postmortem ($$) + SLO stuff ($$) + DFIR ($$) + Uptime Mon ($$) + ... + ...
+- **Paging/On Call**: ($$)
+- **SIRT/Incident Management**: ($$)
+- **Analysis/Postmortem**: ($$)
+- **SLO/SLI Management**: ($$)
+- **DFIR (Digital Forensics & Incident Response)**: ($$)
+- **Status Pages**: ($$)
+- **Uptime Monitoring**: ($$)
 
-...And the madness continues. 
+...And the list/madness continues. 
 
 At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense.
 
