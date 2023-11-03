@@ -32,7 +32,7 @@ In just a few minutes, you can deploy a solution that integrates world-class ope
 
 With UnStruct.AI, you're not just getting another cybersecurity tool – you're getting an all-in-one powerhouse. Instead of juggling multiple tools and racking up costs for each, get everything under one roof. Whether it's for paging, incident response, analysis, status updates, SLO/uptime monitoring, or a sprinkle of tech magic – we've got you covered. And the best part? **It's all free**.
 
-## 🤖 **unIncident**  
+## 🤖 **Incident-Copilot**  
    *Orchestrating Incident Response*  
    - **OpsGPT Bot**: Engage with your dedicated incident copilot and revolutionize your incident response experience.
    - **Dynamic Case Management**: Anticipate and address issues even before they escalate into incidents. Maintain a proactive stance.
@@ -40,15 +40,15 @@ With UnStruct.AI, you're not just getting another cybersecurity tool – you're 
    - **Adaptable Plugin-Based Architecture for Scalable Integrations**: In Unstruct, plugins serve as the essential integration glue, seamlessly connecting the platform to a variety of widely-used external systems across the industry. These include, but are not limited to, Slack, Jira, PagerDuty, ServiceNow, Zoom, Sentry, and Google, among others
 
 
-## 🔍 **unTimeline (aka StoryCurve)**  
+## 🔍 **StoryCurve**  
    *Collaborative Incident & Forensic Analysis*  
    Dive deep into insights, stories, and forensic analysis. Get a granular understanding of every incident with collaborative tools.
 
-## 📢 **unStatus**  
+## 📢 **Uptime-Umbrella**  
    *User-Centric Status Pages & More*  
    Modern status updates, user feedback, incident mapping, and automated page updates. Plus, never miss a beat with SLO & Uptime Monitoring!
 
-## 🚨 **unAlert**  
+## 🚨 **Peace-Pager**  
    *Reliable On-call & Alert Management*  
    Ensure swift responses with on-call scheduling. Benefit from seamless Slack integration and robust API access.
 
