@@ -1,7 +1,7 @@
 ![Original on Transparent](https://github.com/unstructai/.github/assets/5151108/981823ad-4137-450f-9f8b-530f7fd225bf)<br><br>
 
 
-# An AI-Integrated Open-Source Alternative to PagerDuty
+# An AI-Enabled Open-Source Alternative to PagerDuty
 
 ## How much are you paying for Incident Management? 🤔
 
