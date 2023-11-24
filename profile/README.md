@@ -1,4 +1,5 @@
-![Original on Transparent](https://github.com/unstructai/.github/assets/5151108/981823ad-4137-450f-9f8b-530f7fd225bf)<br><br>
+
+![IMG_1211](https://github.com/unstructai/.github/assets/5151108/2806f3a0-86a7-4365-8a68-ae5f699de722)
 
 
 # An AI-Enabled, Open-Source Alternative to PagerDuty
