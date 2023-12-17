@@ -2,36 +2,9 @@
 ![IMG_1211](https://github.com/unstructai/.github/assets/5151108/2806f3a0-86a7-4365-8a68-ae5f699de722)
 
 
-# An AI-Enabled, Open-Source Alternative to PagerDuty
+# An AI-Enabled Alternative to PagerDuty
 
-## How much are you paying for Incident Management? 🤔
-
-- **Paging/On Call**: ($$)
-- **SIRT/Incident Management**: ($$)
-- **Analysis/Postmortem**: ($$)
-- **SLO/SLI Management**: ($$)
-- **DFIR (Digital Forensics & Incident Response)**: ($$)
-- **Status Pages**: ($$)
-- **Uptime Monitoring**: ($$)
-
-...And the list/madness continues. 
-
-At [UnStruct.ai](https://github.com/unstructai), we're on a mission to cut through this nonsense.
-
-In just a few minutes, you can deploy a solution that integrates world-class open-source projects like [Dispatch by Netflix](https://github.com/Netflix/dispatch/), [Timesketch by Google](https://github.com/google/timesketch), [GoAlert by Target](https://github.com/target/goalert), and [Uptime Kuma by Louislam](https://github.com/louislam/uptime-kuma). We've enriched these with AI, added our personal touch, and made significant enhancements. Setting it up is a breeze (with just one command), and for those curious about the internals, feel free to dive into the 500,000+ lines of code that tie everything together.
-
-👉 https://github.com/unstructai/.github/blob/main/unstruct-install.md
-
-## One more thing: 💡
-
-> **Did You Know?**  
-> The average downtime cost for medium to large companies stands at a staggering **$10,719/min**. Furthermore, a single cybersecurity incident can set you back by **$4.35 million**. UnStruct's proposition? **Slash these costs by over 15%**.
-
-
-<br><br>
-# UnStruct.AI Components
-
-With UnStruct.AI, you're not just getting another cybersecurity tool – you're getting an all-in-one powerhouse. Instead of juggling multiple tools and racking up costs for each, get everything under one roof. Whether it's for paging, incident response, analysis, status updates, SLO/uptime monitoring, or a sprinkle of tech magic – we've got you covered. And the best part? **It's all free**.
+With UnStruct.AI, you're not just getting another cybersecurity tool – you're getting an all-in-one powerhouse. Instead of juggling multiple tools and racking up costs for each, get everything under one roof. Whether it's for paging, incident response, analysis, status updates, SLO/uptime monitoring, or a sprinkle of tech magic – we've got you covered. 
 
 ## 🤖 **Incident-Copilot**  
    *Orchestrating Incident Response*  
@@ -56,24 +29,6 @@ With UnStruct.AI, you're not just getting another cybersecurity tool – you're 
 ---
 
 Try UnStruct.AI today and embrace the future of cybersecurity incident response.
-
-
-<br><br>
-# Installation
-
-Setting up comprehensive software can often become a tedious and error-prone process, especially when it involves integrating multiple components, each with its distinct configurations and settings. At UnStruct.AI, we understand this challenge. That's why we've simplified the installation process, ensuring you spend less time setting up and more time benefiting from our platform's capabilities.
-
-## One Command Install
-
-Whether you're setting up for the first time or want to uninstall, we've distilled the process into one simple command:
-```bash
-./deploy_unstruct.sh install|uninstall|upgrade
-```
-
-Full instructions at https://github.com/unstructai/.github/blob/main/unstruct-install.md
-
-## Want a Cloud Solution?
-Interested in a hassle-free, cloud solution without dealing with installation and maintenance? Contact us at unsales@unstructai.com. For the first 10 customers, we will only charge you (GCP) hosting fees for the first year of your usage.  
 
 <br><br>
 # Main Features
@@ -208,80 +163,3 @@ Acknowledging the paramount importance of privacy and role-based access control 
 Traditional timelines, with their seemingly infinite scroll, often prove cumbersome both during and after an incident. We recognized this challenge and devised an innovative solution to address it. While still in Beta, our approach aims to present timelines more intuitively, resembling a double-linked list. This design facilitates a quicker path to insights, allowing users to follow along seamlessly and efficiently.
 <img width="1126" alt="Screen Shot 2023-10-17 at 10 46 23 AM" src="https://github.com/unstructai/.github/assets/5151108/0075d5e2-1d18-4312-bf1d-3c0842395914">
 <img width="1377" alt="Screen Shot 2023-10-17 at 10 54 56 AM" src="https://github.com/unstructai/.github/assets/5151108/04a799b0-7836-4e5b-a4a3-e182fde15a2a">
-
-
-
-<br><br>
-# How can you contribute to our mission?
-
-**UnStruct.AI**: More than Just a Product 
-
-UnStruct.AI is not just a product; it's a vision for the future of cybersecurity incident response. As an open-source project, our strength comes from the collective intelligence and contributions of the community. Furthermore, it's built upon the foundation of several world-class open-source projects, harnessing their power and capabilities to offer a comprehensive and forward-thinking solution. Here's how you can be a part of this transformative journey:
-
-
-- **Try unStruct**: Whether you have a mac or a Linux Dev box or a cloud instance, give unStruct a try. We have made it really, really easy to do. It is also very secure as your data stays with you.
-
-- **Code Contributions**: Whether you're fixing a bug, improving performance, or adding a new feature, your code helps enhance UnStruct.AI for everyone. Check out our `CONTRIBUTING.md` guide to get started.
-
-- **Feedback and Suggestions**: Used UnStruct.AI and have ideas on how it can be improved? We're all ears. Share your user experiences, suggest new features, or point out areas of improvement.
-
-- **Documentation**: Great software is only as good as its documentation. Help us make UnStruct.AI accessible to all by improving guides, tutorials, and API documentation.
-
-- **Spread the Word**: The more people know about UnStruct.AI, the better. Write about us on your blog, share on social media, or present at tech meetups and conferences.
-
-- **Engage with the Community**: Join our forums, chat channels, or monthly community calls. Share your expertise, collaborate with peers, and help newcomers find their way.
-
-- **Bug Reports**: Encountered an issue? Report it! Providing detailed bug reports helps us ensure the platform remains robust and reliable.
-
-- **Integration and Extensions**: Build integrations with other tools, design plugins, or develop extensions to increase UnStruct.AI's utility.
-
-- **Beta Testing**: Participate in our beta releases, test new features, and provide crucial feedback to ensure smooth and stable releases.
-
-Every contribution, no matter how small, plays a vital role in shaping the future of UnStruct.AI. We're excited to have you aboard and together, let's revolutionize cybersecurity incident response!
-
-
-<br><br>
-# Documentation 📖
-
-At UnStruct.AI, we believe that comprehensive documentation is at the heart of a successful open-source project. Our documentation is designed to provide users, contributors, and developers with the knowledge they need to get the most out of UnStruct.AI.
-
-## Getting Started 🚀
-If you're new to UnStruct.AI, start here:
-- **Installation Guide**: Step-by-step instructions on setting up UnStruct.AI.
-- **Quick Start Guide**: Dive right in and see UnStruct.AI in action.
-- **User Manual**: Comprehensive guide on all features and functionalities.
-
-## For Developers 👩‍💻👨‍💻
-For those looking to contribute or integrate with UnStruct.AI:
-- **API Reference**: Detailed information about our API endpoints.
-- **Development Guide**: Best practices and guidelines for contributing code.
-- **Integration Tutorials**: Learn how to integrate other tools and services with UnStruct.AI.
-
-## Advanced Topics 🧠
-Dive deeper into specific functionalities:
-- **Scaling and Performance**: Best practices for running UnStruct.AI at scale.
-- **Security Measures**: Ensure your UnStruct.AI installation is secure.
-- **Custom Extensions**: How to create and integrate custom plugins.
-
-## Community and Support 🤝
-- **Forums and Discussions**: Engage with the community, ask questions, and share your experiences.
-- **FAQs**: Answers to commonly asked questions about UnStruct.AI.
-- **Troubleshooting Guide**: Solutions to common issues and challenges.
-
-We're continually improving and expanding our documentation. If you have feedback, suggestions, or would like to contribute to the docs, please let us know!
-
-> "Good documentation is hard to write. But when done right, it makes software shine." - *Anonymous*
-
-
-<br><br>
----
-
-## Our Decision to Go Open Source 🌍
-
-We've taken a deep dive into our decision-making process, reasoning, and philosophy behind going open source. It's a journey of passion, innovation, and commitment to the community. 
-
-📜 **[Read our full story here (It's a 30-min read)](https://www.linkedin.com/pulse/unstructai-fostering-community-innovation-incident-through-jalleda)**
-
-From our foundational beliefs to the intricacies of our project decisions, we lay it all out for our community. Because transparency isn't just a word for us; it's our way of life.
-
----
